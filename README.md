@@ -3,6 +3,12 @@
 Here are types of clocks that I know of and have made them in UI/2D form so you can directly include them without needing to wory about anything.
 I have used basic sprites to make them but you can change this for best fit of your project.
 
+
+
+https://github.com/DarshilPatel1/Clocks-in-Unity3D/assets/86420843/56b97423-0761-4703-a5fd-27e00f6ae8d6
+
+
+
 ## Getting Started
 
 You will need DOTween and TMPro in your project to use this as they are one of the best helpfull packages/plugins.
